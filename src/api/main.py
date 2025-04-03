@@ -8,8 +8,11 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
+<<<<<<< HEAD
 from fastapi.middleware.cors import CORSMiddleware
 import os
+=======
+>>>>>>> 7f575e99def6794ef0a1eb3de85ed42dffbcde74
 
 # Function to load model and scaler
 def load_model():
