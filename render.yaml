@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: fastapi-service
+    env: python
+    region: oregon
+    buildCommand: "pip install -r src/api/requirements.txt"
+    startCommand: "bash src/api/start.sh"
+    envVars:
+      - key: PORT
+        value: 10000
