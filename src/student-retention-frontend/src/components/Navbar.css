@@ -3,6 +3,7 @@
     background-color: #007bff;
     padding: 15px 20px;
     color: white;
+    height: 60px;
   }
   
   .navbar-container {
@@ -57,6 +58,7 @@
       width: 200px;
       padding: 10px;
       border-radius: 5px;
+     
     }
   
     .nav-links.open {
