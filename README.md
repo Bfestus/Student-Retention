@@ -70,3 +70,7 @@ This endpoint accepts input data to predict student retention.
   "prediction": "Graduate"
 }
 ```
+
+
+## link to video: https://youtu.be/Tu0yoQzuxAs
+
