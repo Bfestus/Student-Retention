@@ -1,5 +1,5 @@
-## Link to video:
-## Link to API cloud: 
+## Link to video: https://youtu.be/vySGtYdLds8
+## Link to API cloud: https://student-retention-2.onrender.com
 ## Link to website: 
 
 
@@ -77,5 +77,5 @@ This endpoint accepts input data to predict student retention.
 ```
 
 
-## link to video: https://youtu.be/Tu0yoQzuxAs
+
 
